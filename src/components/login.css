@@ -1,0 +1,70 @@
+#h1css {
+   margin-left: 4rem 
+}
+
+#banner {
+    width: 87rem;
+    margin-left: 4rem;
+}
+
+#div1 {
+    max-width: 881px;
+    margin: 0 auto;
+}
+
+#text1 {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+#form1 {
+    background: #f9f1f1;
+    padding: 20px;
+    border: 2px solid black;
+}
+
+.label1 {
+    font-weight: bold;
+    margin-left: 10rem;
+    font-size: 20px;
+}
+
+.input1 {
+    background-color: #d9d9d9;
+    width: 556px;
+    height: 58px;
+    margin-left: 10rem;
+    border-color: transparent;
+}
+
+#boton1{
+    background-color: #8fa98f;
+    width: 253px;
+    margin-left: 10rem;
+    margin-top: 1rem;
+    font-weight: bold;
+    font-size: 20px;
+    height: 53px;
+}
+
+#boton2{
+    background-color: #e75d5d;
+    width: 253px;
+    margin-left: 3rem;
+    margin-top: 1rem;
+    font-weight: bold;
+    font-size: 20px;
+    height: 53px;
+}
+
+#text {
+    text-align: center;
+    margin-top: 2rem;
+}
+
+#autenticacion {
+    color: #e75d5d;
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+}

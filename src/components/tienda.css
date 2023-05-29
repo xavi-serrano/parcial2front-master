@@ -1,0 +1,78 @@
+#h1css {
+    margin-left: 4rem;
+}
+
+#banner {
+    width: 92%;
+    margin-left: 4rem;
+}
+
+#div11 {
+    margin-left: 4rem;
+    display: flex;
+}
+
+#thead1 {
+    background-color: #333A40;
+    color: white;
+}
+
+#card1 {
+    width: 22rem;
+}
+
+#cardbody {
+    background-color: #f9f1f1;
+    margin-left: 5rem;
+    border: 2px solid black;
+}
+
+#cardtitle {
+    text-align: center;
+    font-weight: bold;
+}
+
+#cardtext {
+    text-align: center;
+
+}
+
+#cardimage {
+    width: 15rem;
+    margin-left: 1rem;
+}
+
+#cardtext2 {
+    text-align: center;
+    margin-left: 1.5rem;
+    margin-right: 1.5rem;
+}
+
+
+#cardtext3 {
+    text-align: center;
+    font-weight: bold;
+    margin-left: 1.5rem;
+    margin-right: 1.5rem;
+}
+
+#bottom {
+    text-align: center;
+    margin-top: 2rem;
+}
+
+
+#uno{
+    width: 3rem;
+}
+
+#dos {
+    width: 15rem;
+}
+#tres {
+    width: 10rem;
+}
+
+#cuatro {
+    width: 15rem;
+}
